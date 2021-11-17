@@ -1,8 +1,8 @@
 {
-    "name" : "Univercore",
+    "name" : "Piads",
     "version" : "1.1",
-    "download_url" : "http://example.com/unievent.zip",
+    "download_url" : "https://github.com/basespeed/test/archive/refs/heads/master.zip",
     "sections" : {
-        "description" : "Plugin description here. You can use HTML."
+        "description" : "Piads design by pitagon.vn."
     }
 }
